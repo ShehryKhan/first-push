@@ -1294,6 +1294,17 @@ header .text-nowrap i{
     margin-top: 0;
 }
 
+
+.box-slide{
+  position: relative !important;
+}
+.box-slide .main-logo{
+  position: absolute !important;
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%) !important;
+}
+
 /*//////////////////////////////////////////////////////////////////
 [ Tab02 ]*/
 .tab02 .nav-tabs {
