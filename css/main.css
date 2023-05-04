@@ -65,7 +65,6 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 [ Bootstrap ]*/
 .container {
   max-width: 1100px;
-  padding: 0;
 }
 
 /*------------------------------------------------------------------
@@ -3210,4 +3209,11 @@ footer .text-nowrap i:hover{
   .map-location iframe {
     width: 100vw;
   }
+}
+
+
+
+
+.why-us {
+  overflow-x: hidden;
 }
