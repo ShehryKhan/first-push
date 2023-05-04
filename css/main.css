@@ -3171,6 +3171,13 @@ footer .text-nowrap i:hover{
   padding-left: 0;
   padding-right: 0;
 }
+
+.col-12 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+
 @media (max-width: 991px){
   .top-bar-m {
     display: none;
