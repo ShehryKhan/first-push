@@ -3207,7 +3207,7 @@ footer .text-nowrap i:hover{
   }
 
   .map-location iframe {
-    width: 100%;
+    /* width: 100%; */
   }
 }
 
