@@ -3156,9 +3156,9 @@ footer .text-nowrap i:hover{
   text-align: center;
 }
 
-.contact-map iframe{
+/* .contact-map iframe{
   width: 100vw;
-}
+} */
 
 
 
@@ -3201,13 +3201,13 @@ footer .text-nowrap i:hover{
   }
 
   .map-location {
-    width: 100vw;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
   }
 
   .map-location iframe {
-    width: 100vw;
+    width: 100%;
   }
 }
 
