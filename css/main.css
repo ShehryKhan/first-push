@@ -111,6 +111,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 
 body{
   overflow: hidden;
+  overflow-x: hidden;
   overflow-y: auto;
 }
 
@@ -3160,26 +3161,6 @@ footer .text-nowrap i:hover{
   width: 100vw;
 }
 
-.p-all-40, .p-b-40, .p-tb-40 {
-  /* padding-bottom: 0; */
-  padding-left: 0;
-  padding-right: 0;
-}
-.p-all-40, .p-b-40, .p-tb-40 {
-  /* padding-bottom: 0; */
-  padding-left: 0;
-  padding-right: 0;
-}
-.p-b-20 {
-  padding-left: 0;
-  padding-right: 0;
-}
-
-
-.col-12 {
-  padding-left: 0;
-  padding-right: 0;
-}
 
 
 @media (max-width: 991px){
@@ -3187,14 +3168,14 @@ footer .text-nowrap i:hover{
     display: none;
   }
   .p-all-0-sr991, .p-l-0-sr991, .p-rl-0-sr991 {
-    
+
     margin-top: 4rem;
   }
-  
+
   footer {
     margin-top: 2rem;
   }
-  
+
   footer li {
     display: block;
   }
@@ -3204,14 +3185,14 @@ footer .text-nowrap i:hover{
     display: block;
   }
   
-  
+
   
   .max-s-full {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
   }
-  
+
   .footer-logo {
     text-align: center;
   }
@@ -3219,7 +3200,7 @@ footer .text-nowrap i:hover{
     width: 50%;
     text-align: center;
   }
-  
+
   .map-location {
     width: 100vw;
     margin-left: auto;
@@ -3228,9 +3209,5 @@ footer .text-nowrap i:hover{
 
   .map-location iframe {
     width: 100vw;
-  }
-  .col-md-11 {
-    padding-left: 0;
-    padding-right: 0;
   }
 }
