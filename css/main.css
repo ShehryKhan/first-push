@@ -3155,8 +3155,13 @@ footer .text-nowrap i:hover{
 .map-location {
   text-align: center;
 }
-
-/* .contact-map iframe{
+/* .map.contact-map {
+  width: 100vw;
+}
+.contact-map {
+  width: 100vw;
+}
+.contact-map iframe{
   width: 100vw;
 } */
 
